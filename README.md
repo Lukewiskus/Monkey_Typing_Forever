@@ -6,15 +6,19 @@ Have you ever heard that if one monkey typed on a type writer for an infinite am
 First clone the repository. 
 
 to compile run 
+
 `make`
 
 to run the program run  
+
 `make run`
 
 to destroy the object files run
+
 `make clean`
 
 if you want to reset your output directory run
+
 `make remove_output`
 
 
