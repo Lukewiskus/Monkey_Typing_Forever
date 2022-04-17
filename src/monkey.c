@@ -138,7 +138,7 @@ int main(int argc, char *argv[]) {
     double runtime_diff_ms = 0;
     double checkTime = 0;
     char *newStoryPath = malloc(1000*sizeof(char));
-    while(runtime_diff_ms < 30){
+    while(runtime_diff_ms < 600){
         c1 = clock();
         runtime_diff_ms = ((c1 - c0) * 1000 / CLOCKS_PER_SEC) / 1000;
 

@@ -1,7 +1,8 @@
 #include "controller.h"
-#define NUM_CORES 2
-int main(int argc, char *argv[]) {
 
+#define NUM_CORES 2
+
+int main(int argc, char *argv[]) {
     int monkeyPid[NUM_CORES+1]; // array to store children's PIDs
     int currentMonkeyPid;
 	char args[2];
