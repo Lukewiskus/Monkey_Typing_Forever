@@ -21,4 +21,8 @@ if you want to reset your output directory run
 
 `make remove_output`
 
+Eventually I am going to run this program on a google virtual machine with 60 virtual cores
+and 240 gigs of memory for as long as the 400 dollar credit will let me, which is about 5 and a half
+days. Currently my program is to buggy and wont last that long So I am going to hold off. But,
+
 
