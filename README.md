@@ -8,7 +8,7 @@ First clone the repository.
 to compile run 
 `make`
 
-to run call 
+to run the program run  
 `make run`
 
 to destroy the object files run
